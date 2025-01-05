@@ -1,6 +1,7 @@
 # ESP32 Pinball Plunger
 
 An innovative solution to integrate an analog plunger into digital pinball games. This project utilizes an ESP32 microcontroller to convert potentiometer input into gamepad Z-axis movements over Bluetooth, allowing precise control of pinball plungers.
+![alt text](https://github.com/Dcnigma/ESP32-Pinball-Plunger/blob/main/Pictures/IMG_3422.JPG?raw=true)
 
 ## Features
 
@@ -44,7 +45,7 @@ An innovative solution to integrate an analog plunger into digital pinball games
 4. Upload the code to the ESP32.
 
 ### Configuration
-
+![alt text](https://github.com/Dcnigma/ESP32-Pinball-Plunger/blob/main/Pictures/WEBUI%20ESP32%20Plunger.png?raw=true)
 1. Connect to the Wi-Fi network created by the ESP32 (`ESP32_Plunger` by default).
 2. Access the web server at `http://192.168.4.1/`.
 3. Configure the potentiometer pin, rest value, and max value as needed.
